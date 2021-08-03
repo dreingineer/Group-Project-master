@@ -1,0 +1,21 @@
+img {
+	width: 180px;
+	/* height: 400px; */
+	object-fit: scale-down;
+}
+
+.rounded-pill {
+	width: 100px;
+	left: 50px;
+}
+
+select {
+	float: right;
+	position:relative;
+}
+
+.pagecontroller {
+	/* display: flex; */
+	justify-content: center;
+}
+
